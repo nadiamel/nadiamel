@@ -20,7 +20,7 @@ I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data E
 
 
 ## Feel free to reach me: 
-📧 [email](naddysyaf@gmail.com)
-💬 [github](github.com/nadiamel)
+📧 [naddysyaf@gmail.com](url)
+💬 [github.com/nadiamel](url)
 
 
