@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋 I'm Nadia Syafiqah, and I'm currently pursuing a Bachelor's degree in Computer Science (Data Engineering) at Universitit Teknologi Malaysia.
 
 <!--
 **nadiamel/nadiamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
