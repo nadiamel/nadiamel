@@ -11,11 +11,16 @@ I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data E
 - 💻 Enthusiastic about data science and solving complex problems.
 
 ## 📚 Languages & Tools
-<img src="https://github.com/nadiamel/nadiamel/assets/87573002/2642b0a6-d6da-4a98-b108-aca8701ea066" width="35" height="35"/>
+<img src="https://github.com/nadiamel/nadiamel/assets/87573002/2642b0a6-d6da-4a98-b108-aca8701ea066" width="40" height="40"/>
+<img src="https://github.com/nadiamel/nadiamel/assets/87573002/3ca9103e-8d3b-49ba-9a2d-0bbb14fe1fd8" width="40" height="40"/>
+<img src="https://github.com/nadiamel/nadiamel/assets/87573002/a617d779-f9b1-4e1f-889a-7bbe652439a7" width="40" height="40"/>
+<img src="https://github.com/nadiamel/nadiamel/assets/87573002/8b2c7485-99d8-4abd-9bf7-065ad627d3ae" width="40" height="40"/>
+<img src="https://github.com/nadiamel/nadiamel/assets/87573002/c7c52495-9fcb-45c4-bf56-09f6e5aeb6c9" width="40" height="40"/>
+
 
 
 ## Feel free to reach me: 
-📧 ![Email](naddysyaf@gmail.com)
-💬 ![GitHub](github.com/nadiamel)
+📧 [email](naddysyaf@gmail.com)
+💬 [github](github.com/nadiamel)
 
 
