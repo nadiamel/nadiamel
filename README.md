@@ -22,5 +22,5 @@ I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data E
 💬 [github.com/nadiamel](url)
 
 ## 📚 SECP3133 High Performance Data Processing 
-* [📖 Lab 2: EDA Big Data](./Lab 1/readme.md)
+* [📖 Lab 2: EDA Big Data](./SECP3133/Lab 2: EDA Big Data/readme.md)
 
