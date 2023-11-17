@@ -17,10 +17,10 @@ I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data E
 <img src="https://github.com/nadiamel/nadiamel/assets/87573002/8b2c7485-99d8-4abd-9bf7-065ad627d3ae" width="40" height="40"/>
 <img src="https://github.com/nadiamel/nadiamel/assets/87573002/c7c52495-9fcb-45c4-bf56-09f6e5aeb6c9" width="40" height="40"/>
 
-
-
 ## Feel free to reach me: 
 📧 [naddysyaf@gmail.com](url)
 💬 [github.com/nadiamel](url)
 
+## 📚 SECP3133 High Performance Data Processing 
+* [📖 Lab 2: EDA Big Data](./Lab 1/readme.md)
 
