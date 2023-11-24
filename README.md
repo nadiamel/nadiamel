@@ -20,11 +20,3 @@ I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data E
 ## Feel free to reach me: 
 📧 [naddysyaf@gmail.com](url)  
 💬 [github.com/nadiamel](url)
-
-
-## 📚 SECP3133 High Performance Data Processing 
-* [📖 AWS Certificate](./SECP3133)
-* [📖 Feature Engineering on Kaggle Certificate](./SECP3133)
-* [📖 Lab 2: EDA Big Data](./SECP3133/Lab_2/readme.md)
-* [📖 Lab 3: Feature Engineering](./SECP3133/Lab_3/readme.md)
-
