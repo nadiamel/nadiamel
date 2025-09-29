@@ -7,7 +7,7 @@ I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data E
 <!--
 **nadiamel/nadiamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 📖 Currently pursuing a Bachelor's degree in Computer Science (Data Engineering) at Universitit Teknologi Malaysia. 
+- 📖 Currently pursuing a Bachelor's degree in Computer Science (Data Engineering) at Universiti Teknologi Malaysia. 
 - 💻 Enthusiastic about data science and solving complex problems.
 
 ## 📚 Languages & Tools
