@@ -2,7 +2,7 @@
 ![Personal Profile Banner](https://github.com/nadiamel/nadiamel/assets/87573002/23da8c31-30a1-4ce7-a3f0-b7b10c48921e)
 
 Hi there 👋 
-I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data Enginerring. I've had the opportunity to explore into various aspects of this field during my academic path and earning a wide set of abilities along the way. I thrive on the challenges of establishing effective data pipelines and have a desire to learn the unlimited potential of data-driven solutions. With a strong enthusiasm for programming and significant experience, I'm excited to contribute to the ever-changing environment of technology and data science.
+I'm Nadia Syafiqah, a passionate Computer Science student with a focus on Data Engineering. I've had the opportunity to explore into various aspects of this field during my academic path and earning a wide set of abilities along the way. I thrive on the challenges of establishing effective data pipelines and have a desire to learn the unlimited potential of data-driven solutions. With a strong enthusiasm for programming and significant experience, I'm excited to contribute to the ever-changing environment of technology and data science.
 
 <!--
 **nadiamel/nadiamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
