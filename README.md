@@ -1,7 +1,7 @@
 ![Personal Profile Banner](https://github.com/nadiamel/nadiamel/assets/87573002/23da8c31-30a1-4ce7-a3f0-b7b10c48921e)
 
 # Hi there 👋  
-I'm Nadia Syafiqah, a soon-to-be graduate in **Computer Science (Data Engineering)** from Universiti Teknologi Malaysia, graduating in **October 2025**.  
+I'm Nadia Syafiqah, a soon-to-be graduate in **Computer Science (Data Engineering)** from Universiti Teknologi Malaysia, graduating in **November 2025**.  
 
 Throughout my academic journey and internship, I’ve gained valuable experience in data engineering, data analytics, and workflow automation. I thrive on the challenge of building effective data pipelines and delivering meaningful data-driven insights. With strong enthusiasm for programming and proven hands-on experience, I’m eager to contribute to impactful projects in the evolving tech and data industry.  
 
